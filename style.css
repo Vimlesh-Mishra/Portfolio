@@ -27,8 +27,6 @@ body {
     border-radius: 8px;
 }
 
-#page-1:nth-child(1) {}
-
 #page-1>#nav {
     height: 10%;
     width: 100%;
